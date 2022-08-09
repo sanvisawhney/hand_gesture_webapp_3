@@ -1,0 +1,43 @@
+.heading{
+    font-size: 30px;
+    font-family: 'Vast Shadow', cursive;
+    letter-spacing: 3px;
+}
+
+body{
+    background-color: rgb(245, 218, 237);
+}
+
+p{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+label{
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    border: 1px dashed black;
+}
+
+button{
+    color: black;
+    border-radius: 12px;
+    padding: 5px;
+    font-family: cursive;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+span{
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+#camera, #result{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed black;
+}
